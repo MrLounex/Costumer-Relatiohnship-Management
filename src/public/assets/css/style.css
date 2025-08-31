@@ -1,0 +1,97 @@
+/* Global */
+body {
+  background-color: #f9fafb;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  color: #333;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 230px;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 1000; /* biar nggak ketiban */
+  background: linear-gradient(180deg, #4f46e5, #6d28d9, #9333ea);
+  box-shadow: 2px 0 8px rgba(0,0,0,0.15);
+}
+.sidebar h3 {
+  font-size: 1.3rem;
+  border-bottom: 2px solid rgba(255,255,255,0.3);
+  padding-bottom: 10px;
+}
+.sidebar .nav-link {
+  font-weight: 500;
+  padding: 10px 15px;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+.sidebar .nav-link:hover {
+  background: rgba(255,255,255,0.2);
+  transform: translateX(5px);
+}
+
+/* Main */
+.main {
+  margin-left: 230px; /* mulai setelah sidebar */
+  min-height: 100vh;
+  background: #f9fafb;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Topbar */
+.navbar {
+  border-bottom: 1px solid #e5e7eb;
+  background: #ffffff;
+  position: sticky;
+  top: 0;
+  z-index: 500;
+}
+.navbar input {
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  padding: 6px 12px;
+}
+
+/* Stat Cards */
+.stat-card {
+  border-radius: 16px;
+  padding: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.stat-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+.card h6 {
+  font-size: 0.9rem;
+  margin-bottom: 6px;
+  font-weight: 500;
+}
+.card h2 {
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+/* Tables */
+.table thead {
+  background: #f3f4f6;
+  font-weight: 600;
+}
+.table tbody tr:hover {
+  background: #f1f5f9;
+}
+
+/* Recent Activities */
+.list-group-item {
+  border: none;
+  border-bottom: 1px solid #e5e7eb;
+  padding: 12px 15px;
+}
+.list-group-item:last-child {
+  border-bottom: none;
+}

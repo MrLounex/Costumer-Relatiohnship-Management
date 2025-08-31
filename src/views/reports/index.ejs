@@ -1,0 +1,28 @@
+<h3>Reports</h3>
+<p class="text-muted">Analytics and performance overview.</p>
+
+<div class="card p-3 shadow-sm">
+  <canvas id="reportChart" height="200"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  new Chart(document.getElementById("reportChart"), {
+    type: "line",
+    data: {
+      labels: ["Jan","Feb","Mar","Apr","May","Jun","Jul"],
+      datasets: [{
+        label: "Revenue ($)",
+        data: [12000,15000,13000,18000,22000,20000,25000],
+        fill: true,
+        borderColor: "#4f46e5",
+        backgroundColor: "rgba(79,70,229,0.1)"
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: true, position: "bottom" } },
+      scales: { y: { beginAtZero: true } }
+    }
+  });
+</script>

@@ -1,0 +1,21 @@
+<h3>AI Task Generator</h3>
+<p class="text-muted">Saran tugas otomatis (tidak perlu mengetik). Klik Regenerate untuk ide baru.</p>
+
+<div class="card p-3 shadow-sm mb-3">
+  <form action="/tasks/regenerate" method="post">
+    <button class="btn btn-primary">Regenerate tasks</button>
+  </form>
+</div>
+
+<% if (suggestions && suggestions.length) { %>
+  <div class="card p-3 shadow-sm">
+    <h6>Suggested Tasks</h6>
+    <ul class="list-group mt-2">
+      <% suggestions.forEach(s => { %>
+        <li class="list-group-item"><%= s %></li>
+      <% }) %>
+    </ul>
+  </div>
+<% } else { %>
+  <div class="alert alert-secondary">No suggestions yet. Click Regenerate.</div>
+<% } %>

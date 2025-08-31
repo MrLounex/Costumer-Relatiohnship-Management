@@ -1,0 +1,395 @@
+{
+  "u1756624316494": {
+    "contacts": [],
+    "deals": [
+      {
+        "id": "1756624316507_0",
+        "title": "Proyek #1",
+        "company": "Perusahaan 1",
+        "value": 20896825,
+        "status": "Proposal"
+      },
+      {
+        "id": "1756624316507_1",
+        "title": "Proyek #2",
+        "company": "Perusahaan 2",
+        "value": 13878635,
+        "status": "Inisiasi"
+      },
+      {
+        "id": "1756624316507_2",
+        "title": "Proyek #3",
+        "company": "Perusahaan 3",
+        "value": 14132610,
+        "status": "Selesai"
+      },
+      {
+        "id": "1756624316507_3",
+        "title": "Proyek #4",
+        "company": "Perusahaan 4",
+        "value": 1846787,
+        "status": "Negosiasi"
+      },
+      {
+        "id": "1756624316507_4",
+        "title": "Proyek #5",
+        "company": "Perusahaan 5",
+        "value": 14537469,
+        "status": "Selesai"
+      },
+      {
+        "id": "1756624316507_5",
+        "title": "Proyek #6",
+        "company": "Perusahaan 6",
+        "value": 18625025,
+        "status": "Proposal"
+      },
+      {
+        "id": "1756624316507_6",
+        "title": "Proyek #7",
+        "company": "Perusahaan 7",
+        "value": 20343345,
+        "status": "Selesai"
+      },
+      {
+        "id": "1756624316507_7",
+        "title": "Proyek #8",
+        "company": "Perusahaan 8",
+        "value": 16998904,
+        "status": "Inisiasi"
+      },
+      {
+        "id": "1756624316507_8",
+        "title": "Proyek #9",
+        "company": "Perusahaan 9",
+        "value": 5795569,
+        "status": "Proposal"
+      },
+      {
+        "id": "1756624316507_9",
+        "title": "Proyek #10",
+        "company": "Perusahaan 10",
+        "value": 14269046,
+        "status": "Selesai"
+      },
+      {
+        "id": "1756624316507_10",
+        "title": "Proyek #11",
+        "company": "Perusahaan 11",
+        "value": 15120683,
+        "status": "Inisiasi"
+      },
+      {
+        "id": "1756624316507_11",
+        "title": "Proyek #12",
+        "company": "Perusahaan 12",
+        "value": 10422334,
+        "status": "Inisiasi"
+      },
+      {
+        "id": "1756624316507_12",
+        "title": "Proyek #13",
+        "company": "Perusahaan 13",
+        "value": 8851649,
+        "status": "Selesai"
+      },
+      {
+        "id": "1756624316507_13",
+        "title": "Proyek #14",
+        "company": "Perusahaan 14",
+        "value": 8857725,
+        "status": "Negosiasi"
+      },
+      {
+        "id": "1756624316507_14",
+        "title": "Proyek #15",
+        "company": "Perusahaan 15",
+        "value": 17365149,
+        "status": "Selesai"
+      },
+      {
+        "id": "1756624316507_15",
+        "title": "Proyek #16",
+        "company": "Perusahaan 16",
+        "value": 12866382,
+        "status": "Proposal"
+      },
+      {
+        "id": "1756624316507_16",
+        "title": "Proyek #17",
+        "company": "Perusahaan 17",
+        "value": 14077371,
+        "status": "Negosiasi"
+      },
+      {
+        "id": "1756624316507_17",
+        "title": "Proyek #18",
+        "company": "Perusahaan 18",
+        "value": 15188071,
+        "status": "Negosiasi"
+      },
+      {
+        "id": "1756624316507_18",
+        "title": "Proyek #19",
+        "company": "Perusahaan 19",
+        "value": 17629152,
+        "status": "Negosiasi"
+      },
+      {
+        "id": "1756624316507_19",
+        "title": "Proyek #20",
+        "company": "Perusahaan 20",
+        "value": 10867389,
+        "status": "Proposal"
+      },
+      {
+        "id": "1756624316507_20",
+        "title": "Proyek #21",
+        "company": "Perusahaan 21",
+        "value": 15457592,
+        "status": "Negosiasi"
+      },
+      {
+        "id": "1756624316507_21",
+        "title": "Proyek #22",
+        "company": "Perusahaan 22",
+        "value": 5170384,
+        "status": "Proposal"
+      },
+      {
+        "id": "1756624316507_22",
+        "title": "Proyek #23",
+        "company": "Perusahaan 23",
+        "value": 3756190,
+        "status": "Inisiasi"
+      },
+      {
+        "id": "1756624316507_23",
+        "title": "Proyek #24",
+        "company": "Perusahaan 24",
+        "value": 6422659,
+        "status": "Inisiasi"
+      },
+      {
+        "id": "1756624316507_24",
+        "title": "Proyek #25",
+        "company": "Perusahaan 25",
+        "value": 6381625,
+        "status": "Proposal"
+      },
+      {
+        "id": "1756624316507_25",
+        "title": "Proyek #26",
+        "company": "Perusahaan 26",
+        "value": 15570128,
+        "status": "Selesai"
+      },
+      {
+        "id": "1756624316507_26",
+        "title": "Proyek #27",
+        "company": "Perusahaan 27",
+        "value": 8004849,
+        "status": "Negosiasi"
+      },
+      {
+        "id": "1756624316507_27",
+        "title": "Proyek #28",
+        "company": "Perusahaan 28",
+        "value": 18751448,
+        "status": "Selesai"
+      },
+      {
+        "id": "1756624316507_28",
+        "title": "Proyek #29",
+        "company": "Perusahaan 29",
+        "value": 8738970,
+        "status": "Proposal"
+      },
+      {
+        "id": "1756624316507_29",
+        "title": "Proyek #30",
+        "company": "Perusahaan 30",
+        "value": 6012090,
+        "status": "Proposal"
+      },
+      {
+        "id": "1756624316507_30",
+        "title": "Proyek #31",
+        "company": "Perusahaan 31",
+        "value": 16631951,
+        "status": "Negosiasi"
+      },
+      {
+        "id": "1756624316507_31",
+        "title": "Proyek #32",
+        "company": "Perusahaan 32",
+        "value": 11451182,
+        "status": "Selesai"
+      },
+      {
+        "id": "1756624316507_32",
+        "title": "Proyek #33",
+        "company": "Perusahaan 33",
+        "value": 7468460,
+        "status": "Negosiasi"
+      },
+      {
+        "id": "1756624316507_33",
+        "title": "Proyek #34",
+        "company": "Perusahaan 34",
+        "value": 9574148,
+        "status": "Inisiasi"
+      },
+      {
+        "id": "1756624316507_34",
+        "title": "Proyek #35",
+        "company": "Perusahaan 35",
+        "value": 15677535,
+        "status": "Negosiasi"
+      },
+      {
+        "id": "1756624316507_35",
+        "title": "Proyek #36",
+        "company": "Perusahaan 36",
+        "value": 20439413,
+        "status": "Inisiasi"
+      },
+      {
+        "id": "1756624316507_36",
+        "title": "Proyek #37",
+        "company": "Perusahaan 37",
+        "value": 20017134,
+        "status": "Inisiasi"
+      },
+      {
+        "id": "1756624316507_37",
+        "title": "Proyek #38",
+        "company": "Perusahaan 38",
+        "value": 8264041,
+        "status": "Proposal"
+      },
+      {
+        "id": "1756624316507_38",
+        "title": "Proyek #39",
+        "company": "Perusahaan 39",
+        "value": 2585439,
+        "status": "Proposal"
+      },
+      {
+        "id": "1756624316507_39",
+        "title": "Proyek #40",
+        "company": "Perusahaan 40",
+        "value": 10718660,
+        "status": "Selesai"
+      },
+      {
+        "id": "1756624316507_40",
+        "title": "Proyek #41",
+        "company": "Perusahaan 41",
+        "value": 3663423,
+        "status": "Proposal"
+      },
+      {
+        "id": "1756624316507_41",
+        "title": "Proyek #42",
+        "company": "Perusahaan 42",
+        "value": 2406596,
+        "status": "Negosiasi"
+      },
+      {
+        "id": "1756624316507_42",
+        "title": "Proyek #43",
+        "company": "Perusahaan 43",
+        "value": 10706515,
+        "status": "Inisiasi"
+      },
+      {
+        "id": "1756624316507_43",
+        "title": "Proyek #44",
+        "company": "Perusahaan 44",
+        "value": 15761263,
+        "status": "Selesai"
+      },
+      {
+        "id": "1756624316507_44",
+        "title": "Proyek #45",
+        "company": "Perusahaan 45",
+        "value": 12613392,
+        "status": "Negosiasi"
+      },
+      {
+        "id": "1756624316507_45",
+        "title": "Proyek #46",
+        "company": "Perusahaan 46",
+        "value": 17174745,
+        "status": "Inisiasi"
+      },
+      {
+        "id": "1756624316507_46",
+        "title": "Proyek #47",
+        "company": "Perusahaan 47",
+        "value": 7713969,
+        "status": "Negosiasi"
+      },
+      {
+        "id": "1756624316507_47",
+        "title": "Proyek #48",
+        "company": "Perusahaan 48",
+        "value": 4279950,
+        "status": "Proposal"
+      },
+      {
+        "id": "1756624316507_48",
+        "title": "Proyek #49",
+        "company": "Perusahaan 49",
+        "value": 5937358,
+        "status": "Negosiasi"
+      },
+      {
+        "id": "1756624316507_49",
+        "title": "Proyek #50",
+        "company": "Perusahaan 50",
+        "value": 13392950,
+        "status": "Proposal"
+      }
+    ],
+    "tasks": [
+      {
+        "id": "1756624316507_t0",
+        "text": "Follow up klien",
+        "done": false,
+        "due": "2025-08-29"
+      },
+      {
+        "id": "1756624316508_t1",
+        "text": "Kirim invoice",
+        "done": false,
+        "due": "2025-08-30"
+      },
+      {
+        "id": "1756624316508_t2",
+        "text": "Siapkan proposal",
+        "done": false,
+        "due": "2025-08-31"
+      },
+      {
+        "id": "1756624316508_t3",
+        "text": "Update kontak",
+        "done": false,
+        "due": "2025-09-01"
+      },
+      {
+        "id": "1756624316508_t4",
+        "text": "Jadwalkan demo",
+        "done": false,
+        "due": "2025-09-02"
+      }
+    ],
+    "stats": {
+      "contacts": 0,
+      "deals": 50,
+      "tasks": 5,
+      "revenue": 85000000
+    }
+  }
+}

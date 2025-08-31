@@ -1,0 +1,18 @@
+<h3>Search Results for "<%= q %>"</h3>
+
+<ul class="list-group shadow-sm mt-3">
+  <% if (contacts.length) { %>
+    <% contacts.forEach(c => { %>
+      <li class="list-group-item">
+        <strong><%= c.name %></strong> - 
+        <%= c.email %> | 
+        <%= c.company %> | 
+        <%= c.phone %>
+      </li>
+    <% }) %>
+  <% } else { %>
+    <li class="list-group-item">No results found</li>
+  <% } %>
+</ul>
+
+<a href="/contacts" class="btn btn-secondary mt-3">⬅ Back to Contacts</a>

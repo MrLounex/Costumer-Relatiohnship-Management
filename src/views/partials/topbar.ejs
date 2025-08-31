@@ -1,0 +1,13 @@
+<nav class="navbar navbar-light bg-white shadow-sm px-3">
+  <form class="d-flex w-50" action="/search" method="get">
+    <input class="form-control me-2" type="search" name="q" placeholder="Cari..." aria-label="Search">
+    <button class="btn btn-outline-primary" type="submit">Cari</button>
+  </form>
+
+  <div class="d-flex align-items-center">
+    <span class="me-3">Halo, <%= user.name %></span>
+    <a href="/profile">
+      <img src="<%= user.photo %>" class="rounded-circle" width="40" height="40" alt="User">
+    </a>
+  </div>
+</nav>
